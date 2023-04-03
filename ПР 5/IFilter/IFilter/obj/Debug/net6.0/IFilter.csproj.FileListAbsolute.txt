@@ -1,0 +1,15 @@
+D:\Jojo\IFilter\IFilter\bin\Debug\net6.0\IFilter.exe
+D:\Jojo\IFilter\IFilter\bin\Debug\net6.0\IFilter.deps.json
+D:\Jojo\IFilter\IFilter\bin\Debug\net6.0\IFilter.runtimeconfig.json
+D:\Jojo\IFilter\IFilter\bin\Debug\net6.0\IFilter.dll
+D:\Jojo\IFilter\IFilter\bin\Debug\net6.0\IFilter.pdb
+D:\Jojo\IFilter\IFilter\obj\Debug\net6.0\IFilter.csproj.AssemblyReference.cache
+D:\Jojo\IFilter\IFilter\obj\Debug\net6.0\IFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\IFilter\IFilter\obj\Debug\net6.0\IFilter.AssemblyInfoInputs.cache
+D:\Jojo\IFilter\IFilter\obj\Debug\net6.0\IFilter.AssemblyInfo.cs
+D:\Jojo\IFilter\IFilter\obj\Debug\net6.0\IFilter.csproj.CoreCompileInputs.cache
+D:\Jojo\IFilter\IFilter\obj\Debug\net6.0\IFilter.dll
+D:\Jojo\IFilter\IFilter\obj\Debug\net6.0\refint\IFilter.dll
+D:\Jojo\IFilter\IFilter\obj\Debug\net6.0\IFilter.pdb
+D:\Jojo\IFilter\IFilter\obj\Debug\net6.0\IFilter.genruntimeconfig.cache
+D:\Jojo\IFilter\IFilter\obj\Debug\net6.0\ref\IFilter.dll

@@ -1,0 +1,30 @@
+D:\Jojo\PW5\PW5\bin\Debug\net6.0\PW5.exe
+D:\Jojo\PW5\PW5\bin\Debug\net6.0\PW5.deps.json
+D:\Jojo\PW5\PW5\bin\Debug\net6.0\PW5.runtimeconfig.json
+D:\Jojo\PW5\PW5\bin\Debug\net6.0\PW5.dll
+D:\Jojo\PW5\PW5\bin\Debug\net6.0\PW5.pdb
+D:\Jojo\PW5\PW5\obj\Debug\net6.0\PW5.csproj.AssemblyReference.cache
+D:\Jojo\PW5\PW5\obj\Debug\net6.0\PW5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\PW5\PW5\obj\Debug\net6.0\PW5.AssemblyInfoInputs.cache
+D:\Jojo\PW5\PW5\obj\Debug\net6.0\PW5.AssemblyInfo.cs
+D:\Jojo\PW5\PW5\obj\Debug\net6.0\PW5.csproj.CoreCompileInputs.cache
+D:\Jojo\PW5\PW5\obj\Debug\net6.0\PW5.dll
+D:\Jojo\PW5\PW5\obj\Debug\net6.0\refint\PW5.dll
+D:\Jojo\PW5\PW5\obj\Debug\net6.0\PW5.pdb
+D:\Jojo\PW5\PW5\obj\Debug\net6.0\PW5.genruntimeconfig.cache
+D:\Jojo\PW5\PW5\obj\Debug\net6.0\ref\PW5.dll
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\bin\Debug\net6.0\PW5.exe
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\bin\Debug\net6.0\PW5.deps.json
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\bin\Debug\net6.0\PW5.runtimeconfig.json
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\bin\Debug\net6.0\PW5.dll
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\bin\Debug\net6.0\PW5.pdb
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\obj\Debug\net6.0\PW5.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\obj\Debug\net6.0\PW5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\obj\Debug\net6.0\PW5.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\obj\Debug\net6.0\PW5.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\obj\Debug\net6.0\PW5.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\obj\Debug\net6.0\PW5.dll
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\obj\Debug\net6.0\refint\PW5.dll
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\obj\Debug\net6.0\PW5.pdb
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\obj\Debug\net6.0\PW5.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\МЕРЦАЛОВ УП 03\ПР 5\5_1\PW5\obj\Debug\net6.0\ref\PW5.dll

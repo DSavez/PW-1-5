@@ -1,0 +1,7 @@
+C:\Users\Влад\source\repos\SetNumber\SetNumber\bin\Debug\SetNumber.exe.config
+C:\Users\Влад\source\repos\SetNumber\SetNumber\bin\Debug\SetNumber.exe
+C:\Users\Влад\source\repos\SetNumber\SetNumber\bin\Debug\SetNumber.pdb
+C:\Users\Влад\source\repos\SetNumber\SetNumber\obj\Debug\SetNumber.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\SetNumber\SetNumber\obj\Debug\SetNumber.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\SetNumber\SetNumber\obj\Debug\SetNumber.exe
+C:\Users\Влад\source\repos\SetNumber\SetNumber\obj\Debug\SetNumber.pdb

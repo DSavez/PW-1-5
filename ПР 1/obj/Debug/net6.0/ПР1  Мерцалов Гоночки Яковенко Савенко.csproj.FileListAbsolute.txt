@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\obj\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\obj\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\obj\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\obj\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\obj\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\bin\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.exe
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\bin\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.deps.json
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\bin\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.runtimeconfig.json
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\bin\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.dll
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\bin\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.pdb
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\obj\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.dll
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\obj\Debug\net6.0\refint\ПР1  Мерцалов Гоночки Яковенко Савенко.dll
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\obj\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.pdb
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\obj\Debug\net6.0\ПР1  Мерцалов Гоночки Яковенко Савенко.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\ПР1  Мерцалов Гоночки Яковенко Савенко\obj\Debug\net6.0\ref\ПР1  Мерцалов Гоночки Яковенко Савенко.dll

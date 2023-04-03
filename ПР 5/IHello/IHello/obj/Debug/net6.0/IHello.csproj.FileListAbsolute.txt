@@ -1,0 +1,15 @@
+D:\Jojo\IHello\IHello\bin\Debug\net6.0\IHello.exe
+D:\Jojo\IHello\IHello\bin\Debug\net6.0\IHello.deps.json
+D:\Jojo\IHello\IHello\bin\Debug\net6.0\IHello.runtimeconfig.json
+D:\Jojo\IHello\IHello\bin\Debug\net6.0\IHello.dll
+D:\Jojo\IHello\IHello\bin\Debug\net6.0\IHello.pdb
+D:\Jojo\IHello\IHello\obj\Debug\net6.0\IHello.csproj.AssemblyReference.cache
+D:\Jojo\IHello\IHello\obj\Debug\net6.0\IHello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\IHello\IHello\obj\Debug\net6.0\IHello.AssemblyInfoInputs.cache
+D:\Jojo\IHello\IHello\obj\Debug\net6.0\IHello.AssemblyInfo.cs
+D:\Jojo\IHello\IHello\obj\Debug\net6.0\IHello.csproj.CoreCompileInputs.cache
+D:\Jojo\IHello\IHello\obj\Debug\net6.0\IHello.dll
+D:\Jojo\IHello\IHello\obj\Debug\net6.0\refint\IHello.dll
+D:\Jojo\IHello\IHello\obj\Debug\net6.0\IHello.pdb
+D:\Jojo\IHello\IHello\obj\Debug\net6.0\IHello.genruntimeconfig.cache
+D:\Jojo\IHello\IHello\obj\Debug\net6.0\ref\IHello.dll

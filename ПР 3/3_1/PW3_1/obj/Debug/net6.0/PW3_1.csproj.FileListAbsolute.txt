@@ -1,0 +1,15 @@
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\obj\Debug\net6.0\PW3_1.csproj.AssemblyReference.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\obj\Debug\net6.0\PW3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\obj\Debug\net6.0\PW3_1.AssemblyInfoInputs.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\obj\Debug\net6.0\PW3_1.AssemblyInfo.cs
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\obj\Debug\net6.0\PW3_1.csproj.CoreCompileInputs.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\bin\Debug\net6.0\PW3_1.exe
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\bin\Debug\net6.0\PW3_1.deps.json
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\bin\Debug\net6.0\PW3_1.runtimeconfig.json
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\bin\Debug\net6.0\PW3_1.dll
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\bin\Debug\net6.0\PW3_1.pdb
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\obj\Debug\net6.0\PW3_1.dll
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\obj\Debug\net6.0\refint\PW3_1.dll
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\obj\Debug\net6.0\PW3_1.pdb
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\obj\Debug\net6.0\PW3_1.genruntimeconfig.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр3\PW3_1\PW3_1\obj\Debug\net6.0\ref\PW3_1.dll

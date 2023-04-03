@@ -1,0 +1,15 @@
+D:\Jojo\IWiz\IWiz\bin\Debug\net6.0\IWiz.exe
+D:\Jojo\IWiz\IWiz\bin\Debug\net6.0\IWiz.deps.json
+D:\Jojo\IWiz\IWiz\bin\Debug\net6.0\IWiz.runtimeconfig.json
+D:\Jojo\IWiz\IWiz\bin\Debug\net6.0\IWiz.dll
+D:\Jojo\IWiz\IWiz\bin\Debug\net6.0\IWiz.pdb
+D:\Jojo\IWiz\IWiz\obj\Debug\net6.0\IWiz.csproj.AssemblyReference.cache
+D:\Jojo\IWiz\IWiz\obj\Debug\net6.0\IWiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\IWiz\IWiz\obj\Debug\net6.0\IWiz.AssemblyInfoInputs.cache
+D:\Jojo\IWiz\IWiz\obj\Debug\net6.0\IWiz.AssemblyInfo.cs
+D:\Jojo\IWiz\IWiz\obj\Debug\net6.0\IWiz.csproj.CoreCompileInputs.cache
+D:\Jojo\IWiz\IWiz\obj\Debug\net6.0\IWiz.dll
+D:\Jojo\IWiz\IWiz\obj\Debug\net6.0\refint\IWiz.dll
+D:\Jojo\IWiz\IWiz\obj\Debug\net6.0\IWiz.pdb
+D:\Jojo\IWiz\IWiz\obj\Debug\net6.0\IWiz.genruntimeconfig.cache
+D:\Jojo\IWiz\IWiz\obj\Debug\net6.0\ref\IWiz.dll

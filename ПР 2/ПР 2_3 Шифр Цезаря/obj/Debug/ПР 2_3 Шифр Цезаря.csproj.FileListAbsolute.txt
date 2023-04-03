@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\ПР 2_3 Шифр Цезаря\bin\Debug\ПР 2_3 Шифр Цезаря.exe.config
+C:\Users\Пользователь\source\repos\ПР 2_3 Шифр Цезаря\bin\Debug\ПР 2_3 Шифр Цезаря.exe
+C:\Users\Пользователь\source\repos\ПР 2_3 Шифр Цезаря\bin\Debug\ПР 2_3 Шифр Цезаря.pdb
+C:\Users\Пользователь\source\repos\ПР 2_3 Шифр Цезаря\obj\Debug\ПР 2_3 Шифр Цезаря.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\ПР 2_3 Шифр Цезаря\obj\Debug\ПР 2_3 Шифр Цезаря.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\ПР 2_3 Шифр Цезаря\obj\Debug\ПР 2_3 Шифр Цезаря.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ПР 2_3 Шифр Цезаря\obj\Debug\ПР 2_3 Шифр Цезаря.exe
+C:\Users\Пользователь\source\repos\ПР 2_3 Шифр Цезаря\obj\Debug\ПР 2_3 Шифр Цезаря.pdb
+C:\Users\Пользователь\Desktop\ПР 2_3 Шифр Цезаря\bin\Debug\ПР 2_3 Шифр Цезаря.exe.config
+C:\Users\Пользователь\Desktop\ПР 2_3 Шифр Цезаря\bin\Debug\ПР 2_3 Шифр Цезаря.exe
+C:\Users\Пользователь\Desktop\ПР 2_3 Шифр Цезаря\bin\Debug\ПР 2_3 Шифр Цезаря.pdb
+C:\Users\Пользователь\Desktop\ПР 2_3 Шифр Цезаря\obj\Debug\ПР 2_3 Шифр Цезаря.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\ПР 2_3 Шифр Цезаря\obj\Debug\ПР 2_3 Шифр Цезаря.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\ПР 2_3 Шифр Цезаря\obj\Debug\ПР 2_3 Шифр Цезаря.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\ПР 2_3 Шифр Цезаря\obj\Debug\ПР 2_3 Шифр Цезаря.exe
+C:\Users\Пользователь\Desktop\ПР 2_3 Шифр Цезаря\obj\Debug\ПР 2_3 Шифр Цезаря.pdb

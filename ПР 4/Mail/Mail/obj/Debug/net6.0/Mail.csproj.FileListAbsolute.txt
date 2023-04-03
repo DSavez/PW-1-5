@@ -1,0 +1,15 @@
+D:\Jojo\Mail\Mail\bin\Debug\net6.0\Mail.exe
+D:\Jojo\Mail\Mail\bin\Debug\net6.0\Mail.deps.json
+D:\Jojo\Mail\Mail\bin\Debug\net6.0\Mail.runtimeconfig.json
+D:\Jojo\Mail\Mail\bin\Debug\net6.0\Mail.dll
+D:\Jojo\Mail\Mail\bin\Debug\net6.0\Mail.pdb
+D:\Jojo\Mail\Mail\obj\Debug\net6.0\Mail.csproj.AssemblyReference.cache
+D:\Jojo\Mail\Mail\obj\Debug\net6.0\Mail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\Mail\Mail\obj\Debug\net6.0\Mail.AssemblyInfoInputs.cache
+D:\Jojo\Mail\Mail\obj\Debug\net6.0\Mail.AssemblyInfo.cs
+D:\Jojo\Mail\Mail\obj\Debug\net6.0\Mail.csproj.CoreCompileInputs.cache
+D:\Jojo\Mail\Mail\obj\Debug\net6.0\Mail.dll
+D:\Jojo\Mail\Mail\obj\Debug\net6.0\refint\Mail.dll
+D:\Jojo\Mail\Mail\obj\Debug\net6.0\Mail.pdb
+D:\Jojo\Mail\Mail\obj\Debug\net6.0\Mail.genruntimeconfig.cache
+D:\Jojo\Mail\Mail\obj\Debug\net6.0\ref\Mail.dll

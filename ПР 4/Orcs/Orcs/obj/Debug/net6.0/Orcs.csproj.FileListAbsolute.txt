@@ -1,0 +1,15 @@
+D:\Jojo\Orcs\Orcs\bin\Debug\net6.0\Orcs.exe
+D:\Jojo\Orcs\Orcs\bin\Debug\net6.0\Orcs.deps.json
+D:\Jojo\Orcs\Orcs\bin\Debug\net6.0\Orcs.runtimeconfig.json
+D:\Jojo\Orcs\Orcs\bin\Debug\net6.0\Orcs.dll
+D:\Jojo\Orcs\Orcs\bin\Debug\net6.0\Orcs.pdb
+D:\Jojo\Orcs\Orcs\obj\Debug\net6.0\Orcs.csproj.AssemblyReference.cache
+D:\Jojo\Orcs\Orcs\obj\Debug\net6.0\Orcs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\Orcs\Orcs\obj\Debug\net6.0\Orcs.AssemblyInfoInputs.cache
+D:\Jojo\Orcs\Orcs\obj\Debug\net6.0\Orcs.AssemblyInfo.cs
+D:\Jojo\Orcs\Orcs\obj\Debug\net6.0\Orcs.csproj.CoreCompileInputs.cache
+D:\Jojo\Orcs\Orcs\obj\Debug\net6.0\Orcs.dll
+D:\Jojo\Orcs\Orcs\obj\Debug\net6.0\refint\Orcs.dll
+D:\Jojo\Orcs\Orcs\obj\Debug\net6.0\Orcs.pdb
+D:\Jojo\Orcs\Orcs\obj\Debug\net6.0\Orcs.genruntimeconfig.cache
+D:\Jojo\Orcs\Orcs\obj\Debug\net6.0\ref\Orcs.dll

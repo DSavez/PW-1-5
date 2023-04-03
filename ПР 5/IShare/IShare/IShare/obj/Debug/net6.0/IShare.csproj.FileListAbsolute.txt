@@ -1,0 +1,15 @@
+D:\Jojo\IShare\IShare\bin\Debug\net6.0\IShare.exe
+D:\Jojo\IShare\IShare\bin\Debug\net6.0\IShare.deps.json
+D:\Jojo\IShare\IShare\bin\Debug\net6.0\IShare.runtimeconfig.json
+D:\Jojo\IShare\IShare\bin\Debug\net6.0\IShare.dll
+D:\Jojo\IShare\IShare\bin\Debug\net6.0\IShare.pdb
+D:\Jojo\IShare\IShare\obj\Debug\net6.0\IShare.csproj.AssemblyReference.cache
+D:\Jojo\IShare\IShare\obj\Debug\net6.0\IShare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jojo\IShare\IShare\obj\Debug\net6.0\IShare.AssemblyInfoInputs.cache
+D:\Jojo\IShare\IShare\obj\Debug\net6.0\IShare.AssemblyInfo.cs
+D:\Jojo\IShare\IShare\obj\Debug\net6.0\IShare.csproj.CoreCompileInputs.cache
+D:\Jojo\IShare\IShare\obj\Debug\net6.0\IShare.dll
+D:\Jojo\IShare\IShare\obj\Debug\net6.0\refint\IShare.dll
+D:\Jojo\IShare\IShare\obj\Debug\net6.0\IShare.pdb
+D:\Jojo\IShare\IShare\obj\Debug\net6.0\IShare.genruntimeconfig.cache
+D:\Jojo\IShare\IShare\obj\Debug\net6.0\ref\IShare.dll
